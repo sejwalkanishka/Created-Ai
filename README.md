@@ -11,8 +11,10 @@ An AI-powered project for dance movement recognition and generation.
   Tracks hand gestures
   ## Face Recognition
   - It gives Attandance based on Face input and its recognition
+  ## End To End Image Scraping
+  - Image Scraper Web App is a simple Flask-based web application that enables users to search for images on Google and download them. The app scrapes the search results page for images and saves the downloaded images to a specified directory. It provides a user-friendly interface to input search queries and view the downloaded images.
 
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/deekshitaa1/dancingai.git
+   git clone https://github.com/kanishka1/dancingai.git
